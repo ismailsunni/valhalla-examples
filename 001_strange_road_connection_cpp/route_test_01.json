@@ -1,0 +1,11 @@
+{
+    "costing": "auto",
+    "show_locations": true,
+    "locations": [
+        {"lon": 7.461365, "lat": 46.960051}, {"lon": 7.455253, "lat": 46.959715}
+    ],
+    "directions_options": {"language": "en"},
+    "costing_options": {
+        "auto": {"top_speed": "120"}
+    }
+}
